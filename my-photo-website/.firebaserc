@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "digi-tah",
+    "digitah": "digi-tah",
+    " firebase use --add": "digitah-b66f5"
+  },
+  "targets": {},
+  "etags": {}
+}
